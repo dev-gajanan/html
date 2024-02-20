@@ -1,0 +1,28 @@
+What is HTMl:
+
+to make website or web application
+
+Fullform: Hyper Text Markup Langiage
+
+HTML Strucutre have 2 parts
+	1. Header (Head)
+	2. Body
+
+HTML is a tab based language
+
+
+HTML HEADING:
+-------------------
+to display heading in web page we have 6 heading tags available
+1. <h1></h1>
+2. <h2></h2>
+3. <h3></h3>
+4. <h4></h4>
+5. <h5></h5>
+6. <h6></h6>
+
+HTML Paragraph:
+-----------------
+<p></p> tag is used write paragrap in html web page
+
+<center></center> tag is used to put the content in the center of the web page
