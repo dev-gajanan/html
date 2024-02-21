@@ -26,3 +26,34 @@ HTML Paragraph:
 <p></p> tag is used write paragrap in html web page
 
 <center></center> tag is used to put the content in the center of the web page
+
+Tag is also called as Element
+
+<font></font> is used to specicy the style, size, weight etc of the text.
+
+<br> is used for line break in html
+<i></i> i used to make a word/sentence is italic
+
+
+How to insert an image in webpage
+------------------------------------
+- To insert an image in webpage we need to use <img> tag
+- <img> tag don't have closing tag
+- img tag have a attribute called src, in which we can specify the image path.
+- arraibutes of <img> tab
+	1. src: specify the path of the image
+	2. height: specify the height of the image
+	3. width: specify the width of the image
+	4. alt: specify the alternate name of the image
+
+How to create a table in html
+-------------------------------
+- we can create a table in html webpage usging <table></table>
+- table have 3 main thing
+	1. table row
+	2. table heading 
+	3. table body / table content / table data
+
+- table row can create using <tr></tr>
+- table heading can create using <th></th>
+- table data can create using <td></td>
